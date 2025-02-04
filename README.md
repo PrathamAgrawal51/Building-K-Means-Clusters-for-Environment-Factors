@@ -18,4 +18,4 @@ A **machine learning model** that clusters environmental data using **K-Means cl
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Building-K-Means-Clusters-for-Environment-Factors.git
+git clone https://github.com/PrathamAgrawal51/Building-K-Means-Clusters-for-Environment-Factors.git
